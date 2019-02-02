@@ -1,21 +1,6 @@
 [
 
 {
-"caption":"Loving you felt like leaving my apartment and not being able to remember if I locked the door."
-},
-{
-"caption":"If tears were ink, I would have written a big novel out of it!!"
-},
-{
-"caption":"Together, let’s disappear into this night like two shooting stars."
-},
-{
-"caption":"Yours is the kind of love, I’ll never wake up from."
-},
-{
-"caption":"Like a warrior, my heart was meant to fight battles."
-},
-{
 "caption":"We were both blind. You couldn’t see my love. I couldn’t see your indifference."
 },
 {
@@ -29,5 +14,20 @@
 },
 {
 "caption":"Love became a memory I fear to remember."
+},
+{
+"caption":"Loving you felt like leaving my apartment and not being able to remember if I locked the door."
+},
+{
+"caption":"If tears were ink, I would have written a big novel out of it!!"
+},
+{
+"caption":"Together, let’s disappear into this night like two shooting stars."
+},
+{
+"caption":"Yours is the kind of love, I’ll never wake up from."
+},
+{
+"caption":"Like a warrior, my heart was meant to fight battles."
 }
 ]

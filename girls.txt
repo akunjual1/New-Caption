@@ -1,6 +1,30 @@
 [
 
 {
+"caption":"It’s better to arrive late than to arrive ugly."
+},
+{
+"caption":"When you actually matter to a person, they’ll make time for you. No lies, No excuses."
+},
+{
+"caption":"Because she competes with no one, no one can compete with her."
+},
+{
+"caption":"You will never be truly happy if you continuously hold on to the things that make you sad."
+},
+{
+"caption":"Change your thoughts and you’ll change your world."
+},
+{
+"caption":"Never be controlled by three things: Your past, Money, and People."
+},
+{
+"caption":"But without the dark, we’d never see the stars."
+},
+{
+"caption":"She says nothing when she wants to say everything."
+},
+{
 "caption":"– No, I checked my receipt. I didn’t buy any of your bullshit."
 },
 {
@@ -47,32 +71,6 @@
 },
 {
 "caption":"Be careful who you push away. Some of us don’t come back."
-}
-,
-{
-"caption":"It’s better to arrive late than to arrive ugly."
-}
-,
-{
-"caption":"When you actually matter to a person, they’ll make time for you. No lies, No excuses."
-},
-{
-"caption":"Because she competes with no one, no one can compete with her."
-},
-{
-"caption":"You will never be truly happy if you continuously hold on to the things that make you sad."
-},
-{
-"caption":"Change your thoughts and you’ll change your world."
-},
-{
-"caption":"Never be controlled by three things: Your past, Money, and People."
-},
-{
-"caption":"But without the dark, we’d never see the stars."
-},
-{
-"caption":"She says nothing when she wants to say everything."
 },
 {
 "caption":"You can’t just come into someone’s life, make them special and then leave."

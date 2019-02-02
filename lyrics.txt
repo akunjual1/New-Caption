@@ -1,5 +1,24 @@
 [
 {
+"caption":"“I’m just saying you could do better”"
+},{
+"caption":"Just because you’re clean don’t mean you don’t miss it."
+},{
+"caption":"“So baby raise a glass to mend all the broken hearts of all my wrecked up friends.”"
+},{
+"caption":"“So baby raise a glass to mend all the broken hearts of all my wrecked up friends.”"
+},{
+"caption":"“Fresher than a pillow with a mint on it”"
+},{
+"caption":"“I should’ve left my phone at home ‘cause this is a disaster.”"
+},{
+"caption":"“Get your hot rods ready to rumble ‘cause we’re gonna drink until we die.”"
+},{
+"caption":"Wasn’t it beautiful when you believed in everything?"
+},{
+"caption":"I’m dying to know: Is it killing you like it’s killing me? "
+},
+{
 "caption":"“I don’t wanna be alone forever, but I love gypsy life.”"
 },{
 "caption":"We found wonderland — you and I got lost in it."
@@ -31,24 +50,6 @@
 "caption":"“Call me the referee because I am so official”"
 },{
 "caption":"Time won’t fly — it’s like I’m paralyzed by it."
-},{
-"caption":"“I’m just saying you could do better”"
-},{
-"caption":"Just because you’re clean don’t mean you don’t miss it."
-},{
-"caption":"“So baby raise a glass to mend all the broken hearts of all my wrecked up friends.”"
-},{
-"caption":"“So baby raise a glass to mend all the broken hearts of all my wrecked up friends.”"
-},{
-"caption":"“Fresher than a pillow with a mint on it”"
-},{
-"caption":"“I should’ve left my phone at home ‘cause this is a disaster.”"
-},{
-"caption":"“Get your hot rods ready to rumble ‘cause we’re gonna drink until we die.”"
-},{
-"caption":"Wasn’t it beautiful when you believed in everything?"
-},{
-"caption":"I’m dying to know: Is it killing you like it’s killing me? "
 },
 {
 "caption":"“Think before you come for the great one”"

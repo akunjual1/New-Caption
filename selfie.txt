@@ -1,6 +1,45 @@
 [
 
 {
+"caption":"Never let anyone treat you like you’re ordinary."
+},
+{
+"caption":"Be yourself, there’s no one better."
+},
+{
+"caption":"Make them stop and stare."
+},
+{
+"caption":"She acts like summer and walks like rain."
+},
+{
+"caption":"Life is better when you’re laughing."
+},
+{
+"caption":"Be more of you, and less of them."
+},
+{
+"caption":"Maybe she’s born with it..."
+},
+{
+"caption":"Salty BUT sweet."
+},
+{
+"caption":"It’s not a phase mom, it’s who I am."
+},
+{
+"caption":"Self love is the best love."
+},
+{
+"caption":"As beautiful on the inside as I am on the outside."
+},
+{
+"caption":"Be a stiletto in a room full of flats."
+},
+{
+"caption":"Smile big, laugh often."
+},
+{
 "caption":"Cinderella never asked for a prince."
 },
 {

@@ -1,6 +1,30 @@
 [
 
 {
+"caption":"Maybe she’s born with it...maybe it’s an Instagram filter."
+},
+{
+"caption":"Reality called, so I hung up."
+},
+{
+"caption":"When you take a selfie so good, you can’t believe it’s you."
+},
+{
+"caption":"But first, let me take a selfie."
+},
+{
+"caption":"Sure, I do marathons. On Netflix."
+},
+{
+"caption":"If I was funny, I would have a good Instagram caption."
+},
+{
+"caption":"I need a six month holiday, twice a year."
+},
+{
+"caption":"Puts selfie on top of tree because I’m the star."
+},
+{
 "caption":"Walking past a class with your friends in it."
 },
 {

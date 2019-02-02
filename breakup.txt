@@ -1,6 +1,21 @@
 [
 
 {
+"caption":"Sometimes good things fall apart so better things can fall together."
+},
+{
+"caption":"Life always waits for some crisis to occur before revealing itself at its most brilliant."
+},
+{
+"caption":"When I get sad, I stop being sad and be awesome instead."
+},
+{
+"caption":"Bad things do happen; how I respond to them defines my character and the quality of my life. I can choose to sit in perpetual sadness, immobilized by the gravity of my loss, or I can choose to rise from the pain and treasure the most precious gift I have – life itself."
+},
+{
+"caption":"Passivity means death, activity is living. If you are passive, you allow negative things to come into your life."
+},
+{
 "caption":"What hurts more, Breakup or Betrayal? “Replacement,” a heart cried."
 },
 {

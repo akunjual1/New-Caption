@@ -1,6 +1,21 @@
 [
 
 {
+"caption":"Nobody has ever measured, even poets, how much a heart can hold."
+},
+{
+"caption":"There is always some madness in love. But there is also always some reason in madness."
+},
+{
+"caption":"Love is the joy of the good, the wonder of the wise, the amazement of the gods."
+},
+{
+"caption":"A kiss is a lovely trick designed by nature to stop speech when words become superfluous."
+},
+{
+"caption":"We are shaped and fashioned by those we love."
+},
+{
 "caption":"What made you fall for him? He never asked me to justify my past."
 },
 {
