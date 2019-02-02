@@ -1,49 +1,56 @@
 [{
 
 "name":"Break Up",
-"thumbnail":"https://raw.githubusercontent.com/sagarparajuli02/Caption/master/images/heart-broken-icon.png",
-"imageGallery":"https://raw.githubusercontent.com/sagarparajuli02/Caption/master/breakup.txt"
+"thumbnail":"https://raw.githubusercontent.com/akunjual1/New-Caption/master/images/heart-broken-icon.png",
+"imageGallery":"https://raw.githubusercontent.com/akunjual1/New-Caption/master/breakup.txt"
 },
 {
 "name":"Couples",
-"thumbnail":"https://raw.githubusercontent.com/sagarparajuli02/Caption/master/images/marry.png",
-"imageGallery":"https://raw.githubusercontent.com/sagarparajuli02/Caption/master/couples.txt"
+"thumbnail":"https://raw.githubusercontent.com/akunjual1/New-Caption/master/images/marry.png",
+"imageGallery":"https://raw.githubusercontent.com/akunjual1/New-Caption/master/couples.txt"
 
 },
 {
 "name":"Funny",
-"thumbnail":"https://raw.githubusercontent.com/sagarparajuli02/Caption/master/images/clown.png",
-"imageGallery":"https://raw.githubusercontent.com/sagarparajuli02/Caption/master/funny.txt"
+"thumbnail":"https://raw.githubusercontent.com/akunjual1/New-Caption/master/images/clown.png",
+"imageGallery":"https://raw.githubusercontent.com/akunjual1/New-Caption/master/funny.txt"
 
 },
 {
 "name":"Girls",
-"thumbnail":"https://raw.githubusercontent.com/sagarparajuli02/Caption/master/images/girl.png",
-"imageGallery":"https://raw.githubusercontent.com/sagarparajuli02/Caption/master/girls.txt"
+"thumbnail":"https://raw.githubusercontent.com/akunjual1/New-Caption/master/images/girl.png",
+"imageGallery":"https://raw.githubusercontent.com/akunjual1/New-Caption/master/girls.txt"
 
 },
 {
 "name":"Selfie",
-"thumbnail":"https://raw.githubusercontent.com/sagarparajuli02/Caption/master/images/selfie.png",
-"imageGallery":"https://raw.githubusercontent.com/sagarparajuli02/Caption/master/selfie.txt"
+"thumbnail":"https://raw.githubusercontent.com/akunjual1/New-Caption/master/images/selfie.png",
+"imageGallery":"https://raw.githubusercontent.com/akunjual1/New-Caption/master/selfie.txt"
 
 },
 {
 "name":"Morning",
-"thumbnail":"https://raw.githubusercontent.com/sagarparajuli02/Caption/master/images/sunny.png",
-"imageGallery":"https://raw.githubusercontent.com/sagarparajuli02/Caption/master/morning.txt"
+"thumbnail":"https://raw.githubusercontent.com/akunjual1/New-Caption/master/images/sunny.png",
+"imageGallery":"https://raw.githubusercontent.com/akunjual1/New-Caption/master/morning.txt"
 
 },
 {
 "name":"Songs",
-"thumbnail":"https://raw.githubusercontent.com/sagarparajuli02/Caption/master/images/music-player.png",
-"imageGallery":"https://raw.githubusercontent.com/sagarparajuli02/Caption/master/lyrics.txt"
+"thumbnail":"https://raw.githubusercontent.com/akunjual1/New-Caption/master/images/music-player.png",
+"imageGallery":"https://raw.githubusercontent.com/akunjual1/New-Caption/master/lyrics.txt"
 
 },
 {
 "name":"Love",
-"thumbnail":"https://raw.githubusercontent.com/sagarparajuli02/Caption/master/images/heart.png",
-"imageGallery":"https://raw.githubusercontent.com/sagarparajuli02/Caption/master/love.txt"
+"thumbnail":"https://raw.githubusercontent.com/akunjual1/New-Caption/master/images/heart.png",
+"imageGallery":"https://raw.githubusercontent.com/akunjual1/New-Caption/master/love.txt"
+
+},
+
+{
+"name":"Motivation",
+"thumbnail":"https://raw.githubusercontent.com/akunjual1/New-Caption/master/images/strong.png",
+"imageGallery":"https://raw.githubusercontent.com/akunjual1/New-Caption/master/love.txt"
 
 }
 ]
